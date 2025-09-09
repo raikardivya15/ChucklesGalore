@@ -12,6 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -b gh-pages"
   },
+  "homepage": "https://raikardivya15.github.io/ChucklesGalore",
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
@@ -84,5 +85,6 @@
     "vite": "^7.1.5"
   }
 }
+
 
 
