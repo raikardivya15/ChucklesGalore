@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages"
+    "deploy": "gh-pages -d dist -b"
   },
   "homepage": "https://raikardivya15.github.io/ChucklesGalore",
   "dependencies": {
@@ -85,6 +85,7 @@
     "vite": "^7.1.5"
   }
 }
+
 
 
 
