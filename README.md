@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ChucklesGalore
-🤣 Random Joke Generator with timed punchlines and easy social sharing.
-=======
 # ChucklesGalore 😆
 
 ![GitHub stars](https://img.shields.io/github/stars/raikardivya15/ChucklesGalore?style=social)
@@ -15,8 +11,6 @@
 ## 🎬 Live Demo
 
 Try it live here: [ChucklesGalore Demo](https://raikardivya15.github.io/ChucklesGalore/)  
-*(GIF placeholder for live demo)*  
-![ChucklesGalore Demo](https://via.placeholder.com/600x300?text=ChucklesGalore+Demo+GIF)
 
 ---
 
@@ -31,10 +25,10 @@ Try it live here: [ChucklesGalore Demo](https://raikardivya15.github.io/Chuckles
 
 ## 🛠 Technologies Used
 
-- HTML5  
+- TypeScript
+- React
+- Vite (for development)
 - CSS3  
-- JavaScript  
-- Vite (for development)  
 
 ---
 
@@ -44,4 +38,39 @@ Try it live here: [ChucklesGalore Demo](https://raikardivya15.github.io/Chuckles
 
 ```bash
 git clone https://github.com/raikardivya15/ChucklesGalore.git
->>>>>>> ba6b03503f2a6f7e08588678db798432fe55b282
+cd ChucklesGalore
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+4. Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📝 License
+
+MIT License - See LICENSE file for details
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork, create an issue, or submit a pull request.
+
+---
+
+**Enjoy the laughs! 🤣**
